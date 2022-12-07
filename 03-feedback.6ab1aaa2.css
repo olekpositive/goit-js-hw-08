@@ -1,0 +1,2 @@
+body{font-family:Arial,Helvetica,sans-serif}*{box-sizing:border-box}input[type=text],textarea{width:100%;box-sizing:border-box;resize:vertical;border:1px solid #ccc;border-radius:4px;margin-top:6px;margin-bottom:16px;padding:12px}form{flex-direction:column;align-items:flex-start;display:flex}button[type=submit]{color:#fff;cursor:pointer;background-color:#04aa6d;border:none;border-radius:4px;padding:12px 20px}button[type=submit]:hover{background-color:#45a049}
+/*# sourceMappingURL=03-feedback.6ab1aaa2.css.map */
