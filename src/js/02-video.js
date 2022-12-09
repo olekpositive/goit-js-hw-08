@@ -33,4 +33,4 @@ player.on("timeupdate", throttle(() => {
         }
     });
 
-}), 1000);
+}, 1000));
